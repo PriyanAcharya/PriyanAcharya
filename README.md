@@ -29,13 +29,13 @@ I enjoy building real-world systems ranging from ML-based applications to embedd
 
 ## Experience
 
-- ✈️ IT Department Intern at Navi Mumbai International Airport  
+- IT Department Intern at Navi Mumbai International Airport  
   Gained exposure to enterprise IT infrastructure, networking concepts, and system operations including routing, switching, NAT, DHCP, DNS, STP, and network security fundamentals.
 
-- 🚀 Space Technology Intern  
+- Space Technology Intern  
   Completed the Agnirva Space Internship Program recognized by AICTE, exploring satellite communication, remote sensing, and space systems architecture.
 
-- 💡 Hackathon Participant  
+- Hackathon Participant  
   Built real-world solutions during SIH Internal Hackathon and IIIT Bhubaneswar 24-hour Hackathon.
 ---
 
