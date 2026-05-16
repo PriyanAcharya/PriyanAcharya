@@ -10,8 +10,7 @@ I enjoy building real-world systems ranging from ML-based applications to embedd
 ## Interests
 - Backend Development
 - Data Structures & Algorithms in C++
-- Networking & Cybersecurity
-- Machine Learning
+- Networking 
 - Embedded Systems & IoT
 
 ---
@@ -21,7 +20,6 @@ I enjoy building real-world systems ranging from ML-based applications to embedd
 - Python
 - C
 - Node.js
-- React
 - SQL
 - Git & GitHub
 - Arduino
