@@ -28,7 +28,10 @@ I enjoy building real-world systems ranging from ML-based applications to embedd
 - Linux
 
 ---
+## Connect With Me
 
+- [LinkedIn](https://www.linkedin.com/in/priyan-acharya-22bba4305/)
+- [LeetCode 🚀](https://leetcode.com/u/priyanacharya/)
 
 <!--
 **PriyanAcharya/PriyanAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
