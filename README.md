@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi, I'm Priyan
+
+## About Me
+Second-year ECE student passionate about Backend Development, DSA, Embedded Systems, and AI/ML.
+
+I enjoy building real-world systems ranging from ML-based applications to embedded automation projects and full-stack platforms.
+
+---
+
+## Interests
+- Backend Development
+- Data Structures & Algorithms in C++
+- Networking & Cybersecurity
+- Machine Learning
+- Embedded Systems & IoT
+
+---
+
+## Tech Stack
+- C++
+- Python
+- C
+- Node.js
+- React
+- SQL
+- Git & GitHub
+- Arduino
+- Linux
+
+---
+
 
 <!--
 **PriyanAcharya/PriyanAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
